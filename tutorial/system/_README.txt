@@ -1,1 +1,0 @@
-Do not modify any of the files in this folder and subfolders unless you *really* know what are you doing.

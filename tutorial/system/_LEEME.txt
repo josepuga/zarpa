@@ -1,1 +1,0 @@
-No modifiques ninguno de los ficheros de esta carpeta y subcarpetas a no ser que *realmente* sepas qué estás haciendo.
