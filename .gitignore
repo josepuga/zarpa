@@ -1,0 +1,9 @@
+.git/
+.vscode/
+build/
+build.WINDOWS/
+build.LINUX/
+adventure/
+resources/
+tutorial/
+NOTAS.txt
