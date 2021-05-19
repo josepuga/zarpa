@@ -5,5 +5,5 @@ build.WINDOWS/
 build.LINUX/
 adventure/
 resources/
-tutorial/
+./tutorial/
 NOTAS.txt
